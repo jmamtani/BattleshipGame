@@ -38,5 +38,3 @@ Before running this game, ensure you have:
 ## Acknowledgements
 Thanks to our instructors and TAs in the ENGR 1182 course at The Ohio State University for their guidance and support throughout this project.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
